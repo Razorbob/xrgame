@@ -12,8 +12,8 @@ https://razorbob.github.io/
 Markers:
 <img src="https://user-images.githubusercontent.com/6317076/27867388-64baee98-6191-11e7-9fbe-586fd79eba9d.png" alt="Markers"/>
 
-The left displays a red Cube - the right displays a green sphere
-tracking is enabled
+The left displays a red Cube, the right displays a green sphere.
+Tracking is enabled
 
 ## Installation
 
