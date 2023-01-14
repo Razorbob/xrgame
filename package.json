@@ -1,0 +1,27 @@
+{
+  "name": "xrgame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:http": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Razorbob/xrgame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Razorbob/xrgame/issues"
+  },
+  "homepage": "https://github.com/Razorbob/xrgame#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "http-server": "^14.1.1",
+    "three": "^0.148.0"
+  }
+}
