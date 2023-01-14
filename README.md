@@ -4,6 +4,7 @@
 - https://aframe.io/
 
 ## Demo
+AR enabled Device required:
 https://razorbob.github.io/
 
 ## Installation
