@@ -17,4 +17,4 @@ npm install
 npm run start
 ```
 ### Step 5
-connect with Browser to https://<YourPCIP>:3000
+connect with Browser to https://Your_PC_IP:3000
