@@ -7,6 +7,9 @@
 AR enabled Device required:
 https://razorbob.github.io/
 
+## Usage
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Hiro_marker_ARjs.png" alt="Marker Hiro"/>
+
 ## Installation
 
 ### Step 1
