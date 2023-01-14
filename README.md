@@ -3,10 +3,10 @@
 - https://ar-js-org.github.io/AR.js-Docs/
 - https://aframe.io/
 
-##Demo
+## Demo
 https://razorbob.github.io/
 
-##Installation
+## Installation
 
 ### Step 1
 ```
